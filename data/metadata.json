@@ -1,0 +1,94 @@
+{
+  "AAPL": [
+    {
+      "date": "2025-10-01T18:30:13.030517",
+      "status": "success",
+      "records": 340
+    },
+    {
+      "date": "2025-10-02T19:03:09.290987",
+      "status": "success",
+      "records": 229
+    },
+    {
+      "date": "2025-10-03T18:30:20.429880",
+      "status": "success",
+      "records": 229
+    },
+    {
+      "date": "2025-10-04T18:37:30.146480",
+      "status": "success",
+      "records": 301
+    },
+    {
+      "date": "2025-10-05T18:34:56.919717",
+      "status": "success",
+      "records": 310
+    },
+    {
+      "date": "2025-10-06T18:30:57.147930",
+      "status": "success",
+      "records": 310
+    },
+    {
+      "date": "2025-10-07T18:37:15.961365",
+      "status": "success",
+      "records": 310
+    },
+    {
+      "date": "2025-10-08T18:30:49.094448",
+      "status": "success",
+      "records": 310
+    },
+    {
+      "date": "2025-10-09T18:36:48.551420",
+      "status": "success",
+      "records": 206
+    },
+    {
+      "date": "2025-10-09T23:40:38.531791",
+      "status": "success",
+      "records": 206
+    },
+    {
+      "date": "2025-10-10T20:07:45.480705",
+      "status": "success",
+      "records": 279
+    },
+    {
+      "date": "2025-10-10T20:28:11.334167",
+      "status": "success",
+      "records": 279
+    },
+    {
+      "date": "2025-10-10T20:28:27.481020",
+      "status": "success",
+      "records": 279
+    },
+    {
+      "date": "2025-10-17T18:58:25.508626",
+      "status": "success",
+      "records": 170
+    },
+    {
+      "date": "2025-10-18T18:36:04.014352",
+      "status": "success",
+      "records": 239
+    },
+    {
+      "date": "2025-10-19T18:30:10.079239",
+      "status": "success",
+      "records": 275
+    },
+    {
+      "date": "2025-10-20T18:36:02.938265",
+      "status": "success",
+      "records": 275
+    },
+    {
+      "date": "2025-10-21T18:30:42.912726",
+      "status": "success",
+      "records": 275
+    }
+  ]
+}
