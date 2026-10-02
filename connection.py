@@ -10,13 +10,13 @@ def test_snowflake_connection():
     """Test basic Snowflake connection"""
     try:
         conn = snowflake.connector.connect(
-            account='VOB68602',
-            user='FALCON',
-            password='Newpassword123$',
-            warehouse='RISK_WH',
-            database='OPTIONS_RISK_DB',
-            schema='RAW_DATA',
-            role='TRAINING_ROLE'
+            account=os.getenv('SNOWFLAKE_ACCOUNT'),
+            user=os.getenv('SNOWFLAKE_USER'),
+            password=os.getenv('SNOWFLAKE_PASSWORD'),
+            warehouse=os.getenv('SNOWFLAKE_WAREHOUSE'),
+            database=os.getenv('SNOWFLAKE_DATABASE'),
+            schema=os.getenv('SNOWFLAKE_SCHEMA'),
+            role=os.getenv('SNOWFLAKE_ROLE')
         )
         print("✅ Connected to Snowflake!")
         
